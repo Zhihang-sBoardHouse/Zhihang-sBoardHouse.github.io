@@ -7,8 +7,6 @@
 
 > 本博客大部分资源均使用[署名-非商业性使用-禁止演绎 3.0 中国大陆 (CC BY-NC-ND 3.0 CN)](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
 
----
-
 ## 无名之人（置顶）
 
 ---
